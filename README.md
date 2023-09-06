@@ -1,2 +1,2 @@
-# modu-robotics-software-docker-primary
-Primary docker image for modu-robotics-software
+# Summary
+This repository is to build and deploy a primary docker image for modu-robotics-software
